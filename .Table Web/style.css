@@ -1,0 +1,46 @@
+
+body.form {
+    background-color: rgb(190, 233, 232);
+  }
+body.suffer {
+    background-color: rgb(235, 242, 250);
+  }
+  
+
+.carousel-item img {
+    width: 100%;
+    max-height: auto; 
+    object-fit: cover;
+    padding-top: 3.5rem;
+  }  
+
+
+  table {
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+td {
+    border: 1px solid black;
+}
+.header {
+    background-color: yellow;
+    height: 25%;
+}
+.footer {
+    background-color: lightgreen;
+    height: 5%;
+}
+.sidebar {
+    background-color: pink;
+    width: 20%;
+}
+.content {
+    background-color: lightblue;
+}
+.links {
+    text-align: left;
+    padding-left: 10px;
+}
